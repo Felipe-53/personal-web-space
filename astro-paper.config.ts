@@ -3,18 +3,18 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
+    title: "Felipe-53 🧙‍♂️",
+    description: "Um do grande e dois do pequeno, não necessariamente nessa ordem.",
+    author: "Felipe Barbosa",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
-    lang: "en",
-    timezone: "Asia/Bangkok",
+    lang: "pt-BR",
+    timezone: "America/Fortaleza",
     dir: "ltr",
   },
   posts: {
-    perPage: 4,
-    perIndex: 4,
+    perPage: 7,
+    perIndex: 7,
     scheduledPostMargin: 15 * 60 * 1000,
   },
   features: {
@@ -29,10 +29,10 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/satnaing/astro-paper" },
-    { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:yourmail@gmail.com" },
+    { name: "github",   url: "https://github.com/Felipe-53" },
+    // { name: "x",        url: "https://x.com/username" },
+    // { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
+    { name: "mail",     url: "mailto:felipeandresb97@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
