@@ -3,7 +3,7 @@ import type { UIStrings } from "../types";
 export default {
   nav: {
     home: "Início",
-    posts: "Posts",
+    posts: "Artigos",
     tags: "Tags",
     about: "Sobre",
     archives: "Arquivos",
@@ -30,8 +30,8 @@ export default {
   home: {
     socialLinks: "Links sociais",
     featured: "Destaques",
-    recentPosts: "Posts recentes",
-    allPosts: "Todos os posts",
+    recentPosts: "Artigos recentes",
+    allPosts: "Todos os artigos",
   },
   footer: {
     copyright: "Copyright",
@@ -42,10 +42,10 @@ export default {
     tagDesc: "Todos os artigos com a tag",
 
     tagsTitle: "Tags",
-    tagsDesc: "Todas as tags usadas nos posts.",
+    tagsDesc: "Todas as tags usadas nos artigos.",
 
-    postsTitle: "Posts",
-    postsDesc: "Todos os artigos que eu postei.",
+    postsTitle: "Artigos",
+    postsDesc: "",
 
     archivesTitle: "Arquivos",
     archivesDesc: "Todos os artigos que eu arquivei.",
