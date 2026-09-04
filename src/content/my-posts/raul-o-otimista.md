@@ -2,7 +2,7 @@
 author: Felipe
 pubDatetime: 2026-08-30T04:59:04.866Z
 title: Raul - o otimista
-slug: sensibilidade
+slug: raul-o-otimista
 featured: false
 draft: false
 tags:

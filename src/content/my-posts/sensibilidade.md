@@ -6,8 +6,8 @@ slug: sensibilidade
 featured: false
 draft: false
 tags:
-  - definições
-description: Teste
+  - Definições
+description: Uma nota sobre
 ---
 
 Sensibilidade é o deslumbre, o fascínio e a fantasia que parece que a gente vai perdendo à medida que cresce.
