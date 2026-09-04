@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
     title: "Felipe-53 🧙‍♂️",
-    description: "Um do grande e dois do pequeno, não necessariamente nessa ordem.",
+    description: "Por que cometer pequenos erros quando se pode causar terremotos? Um do grande e dois do pequeno, não necessariamente nessa ordem.",
     author: "Felipe Barbosa",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
