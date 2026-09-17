@@ -3,7 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: "Felipe-53 🧙‍♂️",
+    title: "Felipe-53",
     description: "Por que cometer pequenos erros quando se pode causar terremotos? Um do grande e dois do pequeno, não necessariamente nessa ordem.",
     author: "Felipe Barbosa",
     profile: "https://satna.ing",
