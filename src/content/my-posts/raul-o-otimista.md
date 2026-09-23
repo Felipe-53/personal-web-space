@@ -27,10 +27,10 @@ Raul começa o disco Novo Aeon, de 1975, com essa verdadeira injeção de ânimo
 E depois:
 
 > Queira /
-Basta ser sincero e desejar profundo /
-Você será capaz de sacudir o mundo /
-Vai, tente outra vez!
+> Basta ser sincero e desejar profundo /
+> Você será capaz de sacudir o mundo /
+> Vai, tente outra vez!
 
 ### Por quem os sinos dobram
 
-
+(em construção) - Dá preguiça, kkk! Você se diz: "eu já sei disso, porque mesmo que eu tô escrevendo?". Mas tem um motivo, talvez eu aborde isso em outro artigo.
