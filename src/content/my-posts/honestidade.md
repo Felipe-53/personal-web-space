@@ -13,17 +13,17 @@ description: Breve comentário sobre uma das grandes virtudes, sob um perspectiv
 
 #### Honestidade para quem?
 
-O primeiríssimo e principal objeto dessa sagrada Virtude deve ser ninguém menos do que: nós mesmos. Eu preciso primeiramente ser honesto comigo mesmo.
+O primeiríssimo e principal objeto dessa sagrada Virtude deveria ser ninguém menos do que: nós mesmos. Eu preciso primeiramente ser honesto comigo mesmo.
 
 Pode-se, a princípio, estranhar-se tal proposição: afinal como poderia eu ser _desonesto_ comigo mesmo?
 
 A coisa é mais sutil; no Nordeste diria-se que "o buraco é mais embaixo".
 
-Naturalmente ninguém buscar se enganar deliberadamente. Mas, infelizmente, é mais comum do que se imagina criar narrativas distorcidas e **convenientes** para si mesmo, na busca de evitar fatos ou conclusões dolorosas sobre si mesmo. É aquela história do "se iludir", como é conhecido na cultura popular: eu passo pano ou "dou uma de doido" - só que para mim mesmo.
+Naturalmente ninguém buscar se enganar deliberadamente. Mas, infelizmente, é mais comum do que se imagina criar narrativas distorcidas e **convenientes** para si mesmo, na busca de evitar fatos ou conclusões dolorosas sobre si. É aquela história do "se iludir", como é conhecido na cultura popular: eu passo pano ou "dou uma de doido" - só que para mim mesmo.
 
 #### Honestidade e Autocompaixão
 
-Na mesma medida em que se faz necessário sermos honestos conosco - é um dos maiores aliados do autoconhecimento - é igualmente importante não perder de vista a autocompaixão. É ainda necessário não confundir autocompaixão com "passar pano para si". A honestidade com autocompaixão soa mais ou menos assim:
+Na mesma medida em que se faz necessário sermos honestos conosco - é um dos maiores aliados do autoconhecimento, na minha visão (e surpreendentemente difícil de por em prática) - é igualmente importante não perder de vista a **autocompaixão**. É ainda necessário não confundir autocompaixão com "passar pano para si". A honestidade com autocompaixão soa mais ou menos assim:
 
 "Eu sei que errei e agi de forma diversa ao que gostaria de ter feito; se houver alguma forma de reparação a ser feita, assim buscarei fazer: mas acima de tudo, procurarei fazer melhor na próxima vez".
 
