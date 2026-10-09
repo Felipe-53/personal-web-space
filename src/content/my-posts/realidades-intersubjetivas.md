@@ -12,7 +12,7 @@ tags:
 description: Sonho que se sonha junto é realidade
 ---
 
-No livro "Sapiens: uma breve história da humanidade", o autor apresenta o conceito de "realidades intersubjetivas" de forma brilhante, didática, belíssima e deliciosa; um conceito fundamental para entendermos o ser humano - na verdade a humanidade, como grupo coletivo. Porque um ser humano tomado individualmente não é tão impressionante assim como costumamos pensar.
+No livro "Sapiens: uma breve história da humanidade", o autor apresenta o conceito de "realidades intersubjetivas" de forma brilhante, didática, belíssima e deliciosa; um conceito fundamental para entender o ser humano - na verdade a humanidade, como grupo coletivo. Porque um ser humano tomado individualmente não é tão impressionante assim como costuma-se pensar.
 
 Por favor, não me entenda mal: cada pessoa é única e tem todo um universo dentro de si[^1]. O cérebro humano continua sendo uma das coisas mais sofisticadas que conhecemos no universo.
 
