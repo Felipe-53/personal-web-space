@@ -1,13 +1,14 @@
 ---
 author: Felipe
 pubDatetime: 2026-10-13T04:59:04.866Z
-title: Utopia I
-slug: utopia-i
+title: "Quimeras - Devaneio #01"
+slug: quimeras-devaneio-capital
 featured: false
 draft: false
 tags:
-  - Utopia
-description: Utopia capital
+  - Quimeras
+  - Experimento mental
+description: Devaneio capital
 ---
 
 Para além de toda a bagagem cultural que herdamos a respeito da natureza supostamente pecaminosa e indecente da prática sexual, existem algumas questões práticas que limitam a exploração desse prazeroso e fascinante universo.
